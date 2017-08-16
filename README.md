@@ -1,13 +1,13 @@
 Learning algorims
 ===================
 
-## NearnestNeighbor
+## Nearnest Neighbor
 * [kernel-based nearnest-neighbor for multiple-features HSI classifcation]
 
-## ExtremeLearningMachine
+## Extreme Learning Machine
 * [including basic ELM and weighted ELM]
 
-## NeuralNetworks:
+## Neural Networks:
 * basic BPNN
 * train with batch gradient descent
 * train with differential evolution 
